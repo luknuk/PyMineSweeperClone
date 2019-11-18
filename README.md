@@ -3,7 +3,7 @@ A Minesweeper clone in Python that uses PyQt5, Unit-testing, Workers, SQLite, an
 
 ![Screenshot of the application running on Mac OS X](https://repository-images.githubusercontent.com/213285944/b0b0dd00-e905-11e9-9e1b-8b6a294b7411).
 
-![Video of the game features](https://www.youtube.com/watch?v=UoWP6dee-xU)
+[Video of the game's features.](https://www.youtube.com/watch?v=UoWP6dee-xU)
 
 ## Gamemodes
 
